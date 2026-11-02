@@ -1,6 +1,6 @@
-Profile: Encounter
-Parent: Encounter
-Id: Encounter
+Profile: EducationEncounter
+Parent: EducationEncounter
+Id: EducationEncounter
 Title: "Min nya portfölj"
 *subject 1..1 MS
 *subject only Reference(EducationPatient)
