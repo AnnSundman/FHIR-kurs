@@ -9,7 +9,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:http://example.org/fhir/education/kursig/ValueSet/kontakttyp-vs | *Version*:0.1.0 |
-| Draft as of 2026-10-22 | *Computable Name*:KontakttypVS |
+| Draft as of 2026-11-02 | *Computable Name*:KontakttypVS |
 
  
 Alla koder i kodsystemet Kontakttyp. 
@@ -51,7 +51,7 @@ Alla koder i kodsystemet Kontakttyp.
   "title" : "Kontakttyp – ValueSet",
   "status" : "draft",
   "experimental" : true,
-  "date" : "2026-10-22T08:05:14+00:00",
+  "date" : "2026-11-02T12:33:09+00:00",
   "publisher" : "FHIR-utbildning",
   "description" : "Alla koder i kodsystemet Kontakttyp.",
   "jurisdiction" : [{
